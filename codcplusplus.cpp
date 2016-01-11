@@ -15,7 +15,7 @@ public:
 };
 
 class Dummy {
-  //  double i,j;
+   double i,j;
 };
 
 class Addition {
